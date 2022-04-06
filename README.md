@@ -1,3 +1,4 @@
+Por Alejandro Lubik
 Refactoring
 
 El objetivo de este ejercicio es refactorizar este código aplicando:
